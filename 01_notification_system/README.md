@@ -29,7 +29,7 @@ Design a highly scalable Notification System capable of sending Email, SMS, and 
 
 ## High-Level Architecture
 
-![Notification System Architecture](diagrams/architecture.png)
+![Notification System Architecture](diagrams/notification-system-architecture.drawio.png)
 
 ### Components
 
@@ -49,7 +49,7 @@ Design a highly scalable Notification System capable of sending Email, SMS, and 
 
 ## Database Design
 
-![Database Design](diagrams/database.png)
+![Database Design](diagrams/notification-system-database.drawio.png)
 
 ---
 
